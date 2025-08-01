@@ -15,8 +15,8 @@ Il sito ha lo scopo di:
 
 - WordPress (ambiente locale con Local WP)
 - Tema: [Blocksy Companion](https://wordpress.org/themes/blocksy/)
-- Page builder: Elementor
-- Plugin modulo di contatto: Contact Form 7
+- Page builder: [Elementor](https://it.wordpress.org/plugins/elementor/)
+- Plugin modulo di contatto: [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 - Personalizzazioni CSS via pannello “CSS aggiuntivo”
 
 ## 🗂️ Struttura del sito
@@ -35,7 +35,7 @@ Il sito ha lo scopo di:
 
 Il progetto è stato esportato tramite il plugin **All-in-One WP Migration**.
 
-🔗 File `.wpress`: [Link al file esportato](#)
+🔗 File `.wpress`: [Link al file esportato](https://drive.google.com/file/d/1EcmWa-HHPSdSDvSMSOFGGxUR7g2B0WkL/view?usp=sharing)
 
 ## 🚀 Come eseguire il progetto
 
@@ -47,11 +47,6 @@ Il progetto è stato esportato tramite il plugin **All-in-One WP Migration**.
 ## 📸 Screenshot
 
 <img width="1920" height="4869" alt="screencapture-localhost-8888-progetti-corso-WordPress-2025-07-31-11_58_09" src="https://github.com/user-attachments/assets/68f099c9-addc-4eee-a51b-872d4c8043e8" />
-
-
-## 📄 Presentazione
-
-[👉 Link alla presentazione PDF del progetto](#)
 
 ## 📬 Contatti
 
